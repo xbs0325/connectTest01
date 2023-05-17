@@ -1,4 +1,4 @@
-Qt connect练习
+# Qt connect练习
 ## 概要
 
 connect不光可以将信号与槽连接起来
